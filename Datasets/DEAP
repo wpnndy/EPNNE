@@ -3,7 +3,12 @@ It comprises physiological data and emotion ratings from multiple participants w
 The DEAP dataset was collected in a laboratory setting with the aim of investigating the correlation between emotions and physiological signals.
 
 Below is a detailed introduction to the DEAP dataset:
-(1)
+(1) Data Collection Process: Participants wore physiological sensor devices, including electrodes for measuring 
+electroencephalogram (EEG) signals, electrocardiogram (ECG) signals, electrodermal activity (EDA) signals, and
+electromyogram (EMG) signals. Participants were asked to watch 40 5-minute music video clips and provide emotion 
+ratings during the viewing period.
+(2) 
+
 
 Website:
 http://www.eecs.qmul.ac.uk/mmv/datasets/deap/readme.html#:~:text=DEAP%20is%20a%20freely%20available%20dataset%20containg%20EEG%2C,of%20music%20videos%20designed%20to%20elicit%20different%20emotions
