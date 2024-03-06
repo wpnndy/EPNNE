@@ -14,6 +14,9 @@ and 1 respiration signal sampled at 32Hz.
 (3) Emotion Ratings: After viewing each music video clip, participants rated their emotional experiences on a 
 discrete 9-point scale. These emotions include pleasure, excitement, anger, stress, sadness, fear, 
 surprise, calmness, and boredom.
+(4) Data Annotation: In addition to physiological signals and emotion ratings, the DEAP dataset also provides
+audio and video features. Audio features include Mel-frequency cepstral coefficients (MFCC) and audio energy. 
+Video features include frame difference and color histograms, among others.
 
 Website:
 http://www.eecs.qmul.ac.uk/mmv/datasets/deap/readme.html#:~:text=DEAP%20is%20a%20freely%20available%20dataset%20containg%20EEG%2C,of%20music%20videos%20designed%20to%20elicit%20different%20emotions
