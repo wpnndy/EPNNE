@@ -1,4 +1,6 @@
-
+DEAP (Database for Emotion Analysis using Physiological Signals) is a database for emotion analysis utilizing physiological signals. 
+It comprises physiological data and emotion ratings from multiple participants while watching various music video clips. 
+The DEAP dataset was collected in a laboratory setting with the aim of investigating the correlation between emotions and physiological signals.
 
 
 Website:
