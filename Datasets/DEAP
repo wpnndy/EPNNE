@@ -7,8 +7,11 @@ Below is a detailed introduction to the DEAP dataset:
 electroencephalogram (EEG) signals, electrocardiogram (ECG) signals, electrodermal activity (EDA) signals, and
 electromyogram (EMG) signals. Participants were asked to watch 40 5-minute music video clips and provide emotion 
 ratings during the viewing period.
-(2) 
-
+(2) Physiological Signals: The DEAP dataset comprises physiological signal data from 32 channels. 
+This includes 14 electroencephalogram (EEG) signals sampled at 128Hz, 1 electrocardiogram (ECG) signal sampled
+at 256Hz, 8 electrodermal activity (EDA) signals sampled at 4Hz, 4 electromyogram (EMG) signals sampled at 128Hz, 
+and 1 respiration signal sampled at 32Hz.
+(3)
 
 Website:
 http://www.eecs.qmul.ac.uk/mmv/datasets/deap/readme.html#:~:text=DEAP%20is%20a%20freely%20available%20dataset%20containg%20EEG%2C,of%20music%20videos%20designed%20to%20elicit%20different%20emotions
