@@ -17,6 +17,9 @@ surprise, calmness, and boredom.
 (4) Data Annotation: In addition to physiological signals and emotion ratings, the DEAP dataset also provides
 audio and video features. Audio features include Mel-frequency cepstral coefficients (MFCC) and audio energy. 
 Video features include frame difference and color histograms, among others.
+(5) Dataset Scale: The DEAP dataset comprises data from 32 participants, each of whom watched 40 music video clips, 
+resulting in a total of 1280 data points. Each data point includes physiological signal data for emotion analysis, 
+emotion ratings, as well as audio and video features.
 
 Website:
 http://www.eecs.qmul.ac.uk/mmv/datasets/deap/readme.html#:~:text=DEAP%20is%20a%20freely%20available%20dataset%20containg%20EEG%2C,of%20music%20videos%20designed%20to%20elicit%20different%20emotions
