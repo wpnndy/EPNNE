@@ -1,1 +1,9 @@
+% FACED data extraction
 
+  import pickle
+  from scipy.io import savemat
+  import pandas as pd
+
+  f = open(r'...\sub006.pkl', 'rb')
+  content = pickle.load(f)
+  savemat('...\output.mat',{'s6':content})
