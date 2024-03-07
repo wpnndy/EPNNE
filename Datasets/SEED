@@ -6,9 +6,23 @@ with an interval of about a week. The SEED dataset was recorded using a 62-chann
 sampling rate of 1 kHz, then downsampled to 200Hz and a 0-75Hz bandpass filter was used to remove artifacts from 
 the EEG signal data.
 
+Fifteen Chinese film clips (positive, neutral and negative emotions) were chosen from the pool of materials as 
+stimuli used in the experiments. The duration of each film clip is approximately 4 minutes. Each film clip is well 
+edited to create coherent emotion eliciting and maximize emotional meanings. 
 
+There is a total of 15 trials for each experiment. There was a 5 s hint before each clip, 45 s for 
+self-assessment and 15 s to rest after each clip in one session. The order of presentation is arranged 
+in such a way that two film clips that target the same emotion are not shown consecutively. 
+For feedback, the participants were told to report their emotional reactions to each film clip by completing 
+the questionnaire immediately after watching each clip.
 
+EEG signals and eye movements were collected with the 62-channel ESI NeuroScan System and SMI eye-tracking glasses. 
+The experimental scene and the corresponding EEG electrode placement are shown in the following figures.
 
+Fifteen Chinese subjects (7 males and 8 females; MEAN: 23.27, STD: 2.37) participated in the experiments. 
+To protect personal privacy, we hide their names and indicate each subject with a number from 1 to 15. 
+1st-5th and 8th-14th subjects (12 subjects) have EEG and eye movement data while the 6th, 7th and 15th subjects 
+only have EEG data.
 
 Website:
 (1) https://bcmi.sjtu.edu.cn/~seed/index.html
