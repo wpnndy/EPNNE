@@ -1,1 +1,14 @@
+The SJTU Emotion EEG Dataset (SEED) dataset was developed by the Research Center for Brain Computing and Machine Intelligence (BCMI) at 
+Shanghai Jiaotong University. The dataset is designed based on the EEG emotion classification task. 
+The dataset recorded EEG signals from 15 subjects as they watched positive, neutral, and negative emotional 
+movie clips, each of which lasted 3-5 minutes. The collection was repeated for three days for each participant, 
+with an interval of about a week. The SEED dataset was recorded using a 62-channel ESI NeuroScan device at a 
+sampling rate of 1 kHz, then downsampled to 200Hz and a 0-75Hz bandpass filter was used to remove artifacts from 
+the EEG signal data.
 
+
+
+
+
+Website:
+(1) https://bcmi.sjtu.edu.cn/~seed/index.html
