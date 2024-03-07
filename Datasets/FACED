@@ -1,4 +1,4 @@
-
+The proposed Finer-grained Affective Computing EEG Dataset (FACED) aimed to address issues by recording 32-channel EEG signals from 123 subjects. During the experiment, subjects watched 28 emotion-elicitation video clips covering nine emotion categories (amusement, inspiration, joy, tenderness; anger, fear, disgust, sadness, and neutral emotion), providing a fine-grained and balanced categorization on both the positive and negative sides of emotion.  The FACED dataset is expected to contribute to developing EEG-based affective computing algorithms for real-world applications.
 
 
 
