@@ -1,4 +1,6 @@
-
+The SEED-IV is an evolution of the original SEED dataset.  The number of categories of emotions changes to four: 
+happy, sad, fear, and neutral. In SEED-IV, we provide not only EEG signals but also eye movement features recorded 
+by SMI eye-tracking glasses, which makes it a well-formed multimodal dataset for emotion recognition.  
 
 
 
