@@ -3,7 +3,10 @@ happy, sad, fear, and neutral. In SEED-IV, we provide not only EEG signals but a
 by SMI eye-tracking glasses, which makes it a well-formed multimodal dataset for emotion recognition.  
 
 Seventy-two film clips were carefully chosen by a preliminary study, which had the tendency to induce happiness, 
-sadness, fear or neutral emotions.
+sadness, fear or neutral emotions. A total of 15 subjects participated in the experiment. For each participant, 
+3 sessions were performed on different days, and each session contained 24 trials. In one trial, the participant 
+watched one of the film clips, while his or her EEG signals and eye movements were collected with the 62-channel 
+ESI NeuroScan System and SMI eye-tracking glasses.
 
 
 
