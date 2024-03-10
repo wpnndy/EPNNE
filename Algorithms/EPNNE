@@ -28,3 +28,25 @@ net.trainParam.goal = 0.01;      % Convergence condition
 % Test neural network
 output = net(Z')';
 disp(output)
+
+
+%% Generate initial network
+
+import random
+
+def gf(num):
+    names = locals()
+    for i in range(num):
+        names['randomlist' + str(i)] =[]
+        for j in range(random.randint(2, 6)):
+            names['randomlist' + str(i) ].append(random.randint(50, 150))
+        print(names['randomlist' + str(i)])
+    return names['randomlist' + str(i)]
+
+def ranstep(num):         #Sort the classifiers randomly
+    print(random.sample(range(1,num+1),num))
+
+if __name__ == '__main__':
+    gf(5)
+    #ranstep(5)
+
