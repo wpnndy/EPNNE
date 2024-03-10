@@ -1,4 +1,4 @@
-% FACED data extraction
+%% FACED data extraction
 
   import pickle
   from scipy.io import savemat
@@ -7,3 +7,24 @@
   f = open(r'...\sub006.pkl', 'rb')
   content = pickle.load(f)
   savemat('...\output.mat',{'s6':content})
+
+%% MATLAB MLP
+% Create the training dataset
+X = C; % Input feature vector
+Y = labels;      % Target variable
+ 
+% Define the structure of MLP
+net = feedforwardnet([X X X]);   % Set the hidden layer size 3x, x=random neural
+ 
+% Configure neural network parameters
+net.trainParam.epochs = 100;    % Maximum iterations
+net.trainParam.lr = 0.01;        % Learning rate
+net.trainParam.goal = 0.01;      % Convergence condition
+ 
+% Training neural network
+[net, tr] = train(net, X', Y');
+
+
+% Test neural network
+output = net(Z')';
+disp(output)
