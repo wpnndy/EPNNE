@@ -20,3 +20,21 @@ Electroencephalogram (EEG) has been widely utilized in emotion recognition due t
 </div>
 
 # Performance
+Please refer to the Experiments folder
+
+# Citation
+
+If you want to cite this paper:
+
+```
+@ARTICLE{10490105,
+  author={Zhang, Hanzhong and Zuo, Tienyu and Chen, Zhiyang and Wang, Xin and Sun, Poly Z.H.},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Evolutionary Ensemble Learning for EEG-based Cross-Subject Emotion Recognition}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Emotion recognition;Brain modeling;Electroencephalography;Feature extraction;Biological neural networks;Adaptation models;Data models;Emotion Recognition;Electroencephalogram;Cross-Subject Transfer Learning;Ensemble Learning},
+  doi={10.1109/JBHI.2024.3384816}}
+```
