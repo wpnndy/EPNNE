@@ -8,3 +8,5 @@ This work is accepted by IEEE Journal of Biomedical and Health Informatics.
     <a href="https://github.com/Audio-WestlakeU/FS-EEND/"><img src="https://img.shields.io/badge/Platform-Windows-lightgrey" alt="version"></a>
     <a href="https://github.com/Audio-WestlakeU/FS-EEND/"><img src="https://img.shields.io/badge/Python-3.8-orange" alt="version"></a>
 </div>
+
+[Paper :star_struck:](https://ieeexplore.ieee.org/document/10490105) **|** [Contact :kissing_heart:](zhanghz@sari.ac.cn)
