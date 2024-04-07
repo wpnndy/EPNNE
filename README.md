@@ -18,3 +18,5 @@ Electroencephalogram (EEG) has been widely utilized in emotion recognition due t
 <div align="center">
 <image src="/framework.png"  width="800" alt="Proposed end-to-end framework for cross-subject emotion recognitione" />
 </div>
+
+# Performance
