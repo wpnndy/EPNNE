@@ -26,7 +26,7 @@ Please refer to the Experiments folder for more detailed results.
 
 
 <div align="center">
-<image src="/con_max.png"  width="600" alt="Confusion matrices of emotion recognition results output by EPNNE" />
+<image src="/com_max.png"  width="800" alt="Proposed end-to-end framework for cross-subject emotion recognition" />
 </div>
 
 # Citation
