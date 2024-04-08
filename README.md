@@ -22,7 +22,7 @@ Electroencephalogram (EEG) has been widely utilized in emotion recognition due t
 # Performance
 Please refer to the Experiments folder for more detailed results.
 
-(2) Confusion Matrix
+(2) Confusion Matrix: 
 To gain a more detailed understanding of the recognition performance, we employed a confusion matrix to provide a comprehensive view of the results.  The confusion matrix clearly displays the probability of each emotion being correctly recognized and the probability of being misclassified as other emotions.
 
 <div align="center">
