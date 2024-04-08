@@ -20,7 +20,9 @@ Electroencephalogram (EEG) has been widely utilized in emotion recognition due t
 </div>
 
 # Performance
-Please refer to the Experiments folder
+Please refer to the Experiments folder for more detailed results.
+
+(2) Confusion Matrix
 
 # Citation
 
