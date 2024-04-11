@@ -50,7 +50,24 @@ MEDA| 0.638 | 0.569 | 0.551 | 0.630 | 0.650 | 0.606 | 0.710 | 0.668 | 0.664 | 0.
 CSDS| 0.687 | 0.590 | 0.576 | 0.654 | 0.693 | 0.668 | 0.719 | 0.686 | 0.658 | 0.677 | 0.523 | 0.636 | 0.642 | 0.853 | 0.661 | 
 EPNNE| 0.759 | 0.763 | 0.816 | 0.834 | 0.897 | 0.803 | 0.819 | 0.817 | 0.830 | 0.864 | 0.792 | 0.784 | 0.814 | 0.794 | 0.813 | 
 
-(2) Confusion Matrix: To gain a more detailed understanding of the recognition performance, we employed a confusion matrix to provide a comprehensive view of the results. The confusion matrix clearly displays the probability of each emotion being correctly recognized and the probability of being misclassified as other emotions.
+(2) SEED-IV Results
+
+|Session 1   | sub2 | sub3 | sub4 | sub5 |  sub6 |  sub7 |  sub8 |  sub9 |  sub10 |  sub11 |  sub12 |  sub13 |  sub14 |  sub15 | Avg | 
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+GFK | 0.627 | 0.560 | 0.443 | 0.253 | 0.336 | 0.488 | 0.507 | 0.535 | 0.517 | 0.499 | 0.313 | 0.438 | 0.404 | 0.316 | 0.446 
+TCA | 0.475 | 0.480 | 0.663 | 0.338 | 0.387 | 0.598 | 0.433 | 0.460 | 0.472 | 0.450 | 0.332 | 0.525 | 0.505 | 0.371 | 0.464
+JDA | 0.578 | 0.647 | 0.682 | 0.485 | 0.515 | 0.701 | 0.654 | 0.648 | 0.656 | 0.519 | 0.542 | 0.629 | 0.555 | 0.691 | 0.608
+MIDA | 0.676 | 0.584 | 0.447 | 0.465 | 0.478 | 0.549 | 0.663 | 0.533 | 0.638 | 0.593 | 0.591 | 0.506 | 0.439 | 0.466 | 0.551
+DGCNN | 0.546 | 0.574 | 0.589 | 0.492 | 0.404 | 0.481 | 0.511 | 0.629 | 0.426 | 0.510 | 0.559 | 0.522 | 0.532 | 0.538 | 0.522
+LRS | 0.491 | 0.392 | 0.428 | 0.326 | 0.213 | 0.426 | 0.475 | 0.432 | 0.467 | 0.424 | 0.633 | 0.334 | 0.408 | 0.337 | 0.413 
+JAGP | 0.742 | 0.729 | 0.707 | 0.819 | 0.693 | 0.669 | 0.679 | 0.844 | 0.769 | 0.693 | 0.747 | 0.701 | 0.613 | 0.820 | 0.730
+FSTSL | 0.602 | 0.582 | 0.607 | 0.512 | 0.460 | 0.512 | 0.424 | 0.618 | 0.542 | 0.485 | 0.481 | 0.501 | 0.498 | 0.561 | 0.528
+MEKT | 0.535 | 0.725 | 0.596 | 0.703 | 0.506 | 0.668 | 0.626 | 0.631 | 0.607 | 0.602 | 0.675 | 0.683 | 0.544 | 0.517 | 0.616
+LA | 0.655 | 0.666 | 0.654 | 0.689 | 0.591 | 0.705 | 0.639 | 0.643 | 0.653 | 0.661 | 0.744 | 0.655 | 0.654 | 0.607 | 0.658
+JTSR | 0.749 | 0.719 | 0.787 | 0.742 | 0.679 | 0.750 | 0.733 | 0.855 | 0.729 | 0.747 | 0.756 | 0.683 | 0.694 | 0.729 | 0.739
+EPNNE | 0.819 | 0.792 | 0.828 | 0.770 | 0.702 | 0.714 | 0.752 | 0.809 | 0.793 | 0.764 | 0.766 | 0.796 | 0.807 | 0.791 | 0.779 
+
+(3) Confusion Matrix: To gain a more detailed understanding of the recognition performance, we employed a confusion matrix to provide a comprehensive view of the results. The confusion matrix clearly displays the probability of each emotion being correctly recognized and the probability of being misclassified as other emotions.
 
 
 <div align="center">
